@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Alan Calderon<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<img src="https://github.com/user-attachments/assets/044dce6d-cef2-4a66-beb5-c02d462dae7c">
+<img src="https://github.com/user-attachments/assets/044dce6d-cef2-4a66-beb5-c02d462dae7c" width="800" height="500">
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>

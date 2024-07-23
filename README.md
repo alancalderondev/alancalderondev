@@ -35,7 +35,7 @@
   </a>
   &emsp;
   <a href="https://www.java.com" target="_blank"> 
-    <img alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+    <img alt="JAVA" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
   </a>
   &emsp;
    <a href="https://www.python.org" target="_blank">

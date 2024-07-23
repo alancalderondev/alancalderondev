@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi, I'm Alan Calderon 👋
+
+![portadaAlan](https://github.com/user-attachments/assets/044dce6d-cef2-4a66-beb5-c02d462dae7c)
+
 
 <!--
 **alancalderondev/alancalderondev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
